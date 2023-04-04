@@ -22,4 +22,4 @@ XierLabber
 [3.组合图表：2012-2017五大常任理事国gdp对比](https://XierLabber.github.io/homework1/great_permanent_members_gdp.html)
 
 ### 第二次作业
-[水浒传108将关系图](https://XierLabber.github.io/homework1/shuihu.html)
+[水浒传108将关系图](https://XierLabber.github.io/homework2/shuihu.html)
