@@ -12,6 +12,9 @@ XierLabber
 
 [一个计算器](https://XierLabber.github.io/myCalculator/html/index.html)
 
+### 随堂代码
+[1.google it!](https://XierLabber.github.io/test_code/my_google.html)
+
 ### 第一次作业
 [1.词频统计图：水浒传人物出现次数词云图](https://XierLabber.github.io/homework1/shuihuciyun.html)
 
