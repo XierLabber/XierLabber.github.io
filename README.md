@@ -26,4 +26,4 @@ XierLabber
 - 随堂代码：简单的搜索引擎
   - [1.google it!](https://XierLabber.github.io/test_code/my_google.html)
 - 作业：关系图与相关说明
-  - [1. 水浒传108将关系图](https://XierLabber.github.io/homework2/shuihu.html)
+  - [2. 水浒传108将关系图](https://XierLabber.github.io/homework2/shuihu.html)
