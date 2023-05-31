@@ -27,3 +27,8 @@ XierLabber
   - [1.google it!](https://XierLabber.github.io/test_code/my_google.html)
 - 作业：关系图与相关说明
   - [2. 水浒传108将关系图](https://XierLabber.github.io/homework2/shuihu.html)
+
+### 大作业
+
+- 北大学子更钟爱哪个食堂？两周长时间连续监测食堂入座率统计图
+  - [1.北大食堂人数统计](https://XierLabber.github.io/project/main.html)

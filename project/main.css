@@ -1,0 +1,94 @@
+.container {
+    display: grid;
+    grid-template-columns: 4fr 1fr 1fr;
+    grid-template-areas: 
+    "my_header my_header my_header"
+    "my_div1 my_div2 my_div3"
+    "my_div1 my_div4 my_div5"
+    "my_footer my_footer my_footer";
+}
+
+.container > div {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+div > img {
+    object-fit: inherit;
+}
+
+.my_header {
+    grid-area: my_header;
+    padding: 10px;
+    background-color: #1d1d1d;
+    border-radius: 5px;
+    border: 2px solid rgb(92, 92, 92);
+    color: white;
+    text-align: center;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.my_footer {
+    grid-area: my_footer;
+    padding: 10px;
+    background-color: #1d1d1d;
+    border-radius: 5px;
+    border: 2px solid rgb(92, 92, 92);
+    color: white;
+    text-align: center;
+    font-size: small;
+    font-weight: bolder;
+}
+
+.div1 {
+    min-height: 550px;
+    grid-area: my_div1;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.div2 {
+    grid-area: my_div2;
+    background-color: #bdbdbd;
+    border-radius: 5px;
+    border: 2px solid rgb(211, 211, 211);
+    color: white;
+    font-size: x-large;
+    font-weight: bolder;
+    padding-top: 40%;
+}
+
+.div3 {
+    grid-area: my_div3;
+    border-radius: 5px;
+    font-size: x-large;
+    font-weight: bolder;
+    padding-top: 40%;
+    padding-bottom: 40%;
+}
+
+.div4 {
+    grid-area: my_div4;
+    border-radius: 5px;
+    font-size: x-large;
+    font-weight: bolder;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 40%;
+    padding-bottom: 40%;
+}
+
+.div5 {
+    grid-area: my_div5;
+    background-color: #bdbdbd;
+    border-radius: 5px;
+    border: 2px solid rgb(211, 211, 211);
+    color: white;
+    font-size: x-large;
+    font-weight: bolder;
+    padding-top: 40%;
+}
+
+.target {
+    
+}
